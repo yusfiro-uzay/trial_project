@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Build artifacts
+Debug/
+Release/
+x64/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Generated files
+output_bits.txt
+log.txt
+stats.log
